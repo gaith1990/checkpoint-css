@@ -1,0 +1,44 @@
+body 
+  {background-color:hsla(120,100%,75%,0.3); }
+  h1 {
+  text-shadow: 4px 4px 10px rgb(189, 183, 107);
+  text-align: center;
+  }
+  
+      div{
+display: block; text-align: justify;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: DodgerBlue;
+}
+li {
+  float: right;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+}
+ th {
+  border: 5px solid black;
+}
+
+h2{border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
+  text-align: center;}
+  h4{text-align: center;}
+  pre{float: right;}
+ 
